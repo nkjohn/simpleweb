@@ -20,8 +20,8 @@ body {
 }
 
 .wrapper {
-    padding-top: 4rem;
-    width: 90%;
+    padding-top: 10rem;
+    width: 70%;
     margin: 0 auto;
     text-align: center;
 }
@@ -30,16 +30,17 @@ div {
     display: block;
 }
 .quote {
-    font-family: 'Julius Sans One', sans-serif;
-    font-size: 2.5rem;
+    font-family: 'Crimson Text', sans-serif;
+    font-size: 2rem;
+    
 }
 
 p {
     display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
+    margin-before: 1em;
+    margin-after: 1em;
+    margin-start: 0px;
+    margin-end: 0px;
 }
 .author {
     font-family: 'Crimson Text', serif;
@@ -50,8 +51,8 @@ p {
 
 p {
     display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
+    margin-before: 1em;
+    margin-after: 1em;
+    margin-start: 0px;
+    margin-end: 0px;
 }
